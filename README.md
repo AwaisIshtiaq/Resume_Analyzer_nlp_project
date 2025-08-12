@@ -12,3 +12,6 @@ Tech Stack
   Scikit-learn – ML model & TF-IDF vectorizer
   NLTK – NLP preprocessing (punkt tokenizer if needed)
   Pandas / NumPy – Data handling
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/8efb27f0-7bc2-4e70-bdb6-3aabbf6a0e41" />
+
